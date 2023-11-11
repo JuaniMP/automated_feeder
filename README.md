@@ -5,7 +5,7 @@ These are my own projects, which were carried out with different programming lan
 🐺 I created a feeder which with cell phone signals activates the mechanism so that the food comes out, it was also created with Arduino and 
 well there is a version with ultra sound and another with Bluetooth.
 
-## Autor -
+## Autor ✒️
 **Juanita Mejia**
 
 * [LinKedIn] (https://www.linkedin.com/in/juanimp/)
