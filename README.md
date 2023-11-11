@@ -2,7 +2,8 @@
 
 These are my own projects, which were carried out with different programming languages:
 
-🐺
+🐺 I created a feeder which with cell phone signals activates the mechanism so that the food comes out, it was also created with Arduino and 
+well there is a version with ultra sound and another with Bluetooth.
 
 ## Autor -
 **Juanita Mejia**
@@ -12,11 +13,7 @@ These are my own projects, which were carried out with different programming lan
 ## Facility
 Keep in mind that to use any of these projects and open it you must:
 
-🦝The first one is that you have to download all the libraries if you don't use Python itself and you can download all the files there are.
-
-🦝The second you must download everything and hit the exe point
-
-🦝The third only if you want to use it, then have an Arduino and open the file and run it.
+🦝Well, to be able to install it you need an Arduino, to assemble it you need a motor, H-bridge, Bluthoth or ultra sound and cables
 
 ## Hiring
 If you want to hire me, write to juamejiapi@gmail.com for questions.
